@@ -1,0 +1,4 @@
+.git
+.*
+credentials.json
+node_modules
